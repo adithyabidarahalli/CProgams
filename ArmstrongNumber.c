@@ -20,3 +20,4 @@ if(sum==temp)
 return 0;
 }
 
+// This code checks if a number is an Armstrong number (specifically for 3-digit numbers) by summing the cubes of its digits and comparing it to the original number. It uses a loop to allow multiple checks until the program is terminated.
